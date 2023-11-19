@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Food Security Stats</string>
+
+    <string name="bottom_nav_item_macroeconomic">Macroeconomic</string>
+    <string name="bottom_nav_item_agriculture">Agriculture</string>
+    <string name="bottom_nav_item_trade">Trade</string>
+    <string name="bottom_nav_item_chatgpt">ChatGPT</string>
+</resources>
